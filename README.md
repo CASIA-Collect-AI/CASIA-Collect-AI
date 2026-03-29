@@ -2,12 +2,14 @@
 
 # CASIA-Collect-AI
 
-**Intelligent Flight Technology Team (Swarm Intelligence Group)**
+**Intelligent Flight Technology Team**
 Institute of Automation, Chinese Academy of Sciences (CASIA)
 
 *Curating high-quality open-source research code in Multi-Agent RL, LLM, and Robotics*
 
-[![GitHub Org](https://img.shields.io/badge/GitHub-CASIA--Collect--AI-181717?logo=github)](https://github.com/CASIA-Collect-AI)
+[English](https://github.com/CASIA-Collect-AI/CASIA-Collect-AI/blob/main/README.md) | [中文](https://github.com/CASIA-Collect-AI/CASIA-Collect-AI/blob/main/README_CN.md)
+
+[![GitHub](https://img.shields.io/badge/GitHub-CASIA--Collect--AI-181717?logo=github)](https://github.com/CASIA-Collect-AI)
 [![Lab](https://img.shields.io/badge/CASIA-ia.cas.cn-blue)](https://www.ia.cas.cn)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Zhiqiang%20Pu-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=G4YHckgAAAAJ)
 [![Contact](https://img.shields.io/badge/Contact-zhiqiang.pu%40ia.ac.cn-red)](mailto:zhiqiang.pu@ia.ac.cn)
@@ -18,15 +20,17 @@ Institute of Automation, Chinese Academy of Sciences (CASIA)
 
 ## 👨‍🏫 About the Team
 
-We are the **Intelligent Flight Technology Team (飞行器智能技术团队)**, also known as the **Swarm Intelligence Group (群体智能团队)**, led by **Prof. Zhiqiang Pu (蒲志强)** at the Institute of Automation, Chinese Academy of Sciences (CASIA).
+We are the **Intelligent Flight Technology Team (飞行器智能技术团队)**, led by **Prof. Zhiqiang Pu (蒲志强)** at the Institute of Automation, Chinese Academy of Sciences (CASIA).
+
+**CASIA-Collect-AI** is our open-source code collection platform, curating and maintaining high-quality research code from our team and affiliated researchers in MARL, LLM, and robotics.
 
 Our group is affiliated with the **National Key Laboratory of Cognition and Decision Intelligence for Complex Systems** (认知与决策智能全国重点实验室), where Prof. Pu serves as deputy director. We are also part of the School of Artificial Intelligence, University of Chinese Academy of Sciences (UCAS).
 
 Our research operates at the intersection of:
-- 🤖 **Multi-Agent Reinforcement Learning (MARL)** — cooperative, heterogeneous, large-scale swarm systems
+- 🤖 **Multi-Agent Reinforcement Learning (MARL)** — cooperative, heterogeneous, large-scale
 - 🧠 **LLM × MARL** — RL-based LLM fine-tuning, alignment, and parameter-efficient methods
 - ⚽ **Football / Sports AI** — data-driven tactic generation, VLM-guided policy alignment
-- 🚁 **Autonomous Unmanned Systems** — UAV swarms, formation control, nonlinear flight control
+- 🚁 **Autonomous Unmanned Systems** — UAV formation control, nonlinear flight control
 
 ---
 
@@ -118,13 +122,13 @@ Our research operates at the intersection of:
 ## 🏆 Awards & Recognition
 
 **Competition Awards**
-- 🥇 **Special Prize** — 1st National Swarm Intelligence Technology Challenge (全国群体智能技术挑战赛特等奖), 2023
+- 🥇 **Special Prize** — 1st National Collect-AI Technology Challenge (全国群体智能技术挑战赛特等奖), 2023
 - 🥇 **1st Place (Heterogeneous Track)** — 2nd National Multi-Agent Adversarial Gaming Challenge (全国多智能体对抗博弈挑战赛异构赛道第一名), 2020
 - 🥈 **2nd Place (Homogeneous Track)** — 2nd National Multi-Agent Adversarial Gaming Challenge, 2020
 
 **Academic Awards**
 - 🏅 **CAAI Natural Science Award, 2nd Prize** — "Self-Learning Optimization Theory and Methods" (中国人工智能学会自然科学二等奖), 2024
-- 📄 **F-5000 Top Academic Paper** — "Knowledge-Data Collaborative Swarm Intelligence Decision-Making" (中国科技期刊卓越行动计划高被引论文)
+- 📄 **F-5000 Top Academic Paper** — "Knowledge-Data Collaborative Intelligence Decision-Making" (中国科技期刊卓越行动计划高被引论文)
 - 📄 **Web of Science Highly Cited Paper** — "Fixed-Time Adaptive Fuzzy Control..." (IEEE TFS, 2022)
 - 🏆 **Best Paper Award** — 5th CCSICC International Conference
 
@@ -148,5 +152,5 @@ Our research operates at the intersection of:
 ---
 
 <div align="center">
-<sub>This organization curates and maintains open-source research code from the Intelligent Flight Technology Team at CASIA. All repos include bilingual (English/Chinese) documentation.</sub>
+<sub>CASIA-Collect-AI curates and maintains open-source research code from the Intelligent Flight Technology Team at CASIA. All repos include bilingual (English/Chinese) documentation.</sub>
 </div>
