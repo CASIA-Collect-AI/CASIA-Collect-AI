@@ -38,11 +38,11 @@
 
 | 方向 | 说明 | 代表工作 |
 |------|------|---------|
-| **MARL 基础理论** | 异构性、参数共享、策略距离度量 | [MADPS](https://github.com/CASIA-Collect-AI/MARL-Diversity-MADPS)（AAMAS'24 Oral）、[HetDPS](https://github.com/CASIA-Collect-AI/MARL-Diversity-HetDPS)（AAMAS'26 Oral） |
-| **稀疏奖励 MARL** | 懒惰智能体、责任扩散、课程学习 | [LazyAgents](https://github.com/CASIA-Collect-AI/MARL-Reward-LazyAgents)（ICML'23） |
-| **LLM × MARL** | 协作式 MARL 微调 LLM、MoE 参数高效微调 | [CORY](https://github.com/CASIA-Collect-AI/LLM-MARL-CORY)（NeurIPS'24） |
-| **MARL 仿真平台** | 通用多智能体强化学习实验环境 | [Unreal-MAP](https://github.com/CASIA-Collect-AI/MARL-Environment-UnrealMAP)（AAAI'26 Oral） |
-| **足球 AI** | VLM 奖励塑造、生成式战术发现 | [V-GEPF](https://github.com/CASIA-Collect-AI/MARL-Football-VGEPF)（AAAI'25）、[TacEleven](https://github.com/CASIA-Collect-AI/LLM-Football-TacEleven） |
+| **MARL 基础理论** | 异构性、参数共享、策略距离度量 | [MADPS](https://github.com/CASIA-Collect-AI/MARL-Diversity-MADPS)（[论文](https://arxiv.org/abs/2401.11257)）（AAMAS'24 Oral）、[HetDPS](https://github.com/CASIA-Collect-AI/MARL-Diversity-HetDPS)（[论文](https://arxiv.org/abs/2512.22941)）（AAMAS'26 Oral） |
+| **稀疏奖励 MARL** | 懒惰智能体、责任扩散、课程学习 | [LazyAgents](https://github.com/CASIA-Collect-AI/MARL-Reward-LazyAgents)（[论文](https://proceedings.mlr.press/v202/liu23ac.html)）（ICML'23） |
+| **LLM × MARL** | 协作式 MARL 微调 LLM、MoE 参数高效微调 | [CORY](https://github.com/CASIA-Collect-AI/LLM-MARL-CORY)（[论文](https://arxiv.org/abs/2410.06101)）（NeurIPS'24） |
+| **MARL 仿真平台** | 通用多智能体强化学习实验环境 | [Unreal-MAP](https://github.com/CASIA-Collect-AI/MARL-Environment-UnrealMAP)（[论文](https://arxiv.org/abs/2503.15947)）（AAAI'26 Oral） |
+| **足球 AI** | VLM 奖励塑造、生成式战术发现 | [V-GEPF](https://github.com/CASIA-Collect-AI/MARL-Football-VGEPF)（[论文](https://arxiv.org/abs/2502.13430)）（AAAI'25）、[TacEleven](https://github.com/CASIA-Collect-AI/LLM-Football-TacEleven)（[论文](https://arxiv.org/abs/2511.13326)） |
 | **层级智能体** | 嵌套语言模型智能体，面向长时序复杂任务 | [agent-matrix](https://github.com/CASIA-Collect-AI/agent-matrix) |
 
 ---
@@ -53,54 +53,54 @@
 
 | 论文 | 发表期刊/会议 | 仓库 |
 |------|-------------|------|
-| **Unreal-MAP**：基于虚幻引擎的通用 MARL 平台 | **AAAI 2026 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Environment-UnrealMAP) |
-| **HetDPS**：多智能体强化学习中的异构性 | **AAMAS 2026 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Diversity-HetDPS) |
+| **[Unreal-MAP](https://arxiv.org/abs/2503.15947)**：基于虚幻引擎的通用 MARL 平台 | **AAAI 2026 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Environment-UnrealMAP) |
+| **[HetDPS](https://arxiv.org/abs/2512.22941)**：多智能体强化学习中的异构性 | **AAMAS 2026 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Diversity-HetDPS) |
 
 ### 2025
 
 | 论文 | 发表期刊/会议 | 仓库 |
 |------|-------------|------|
-| **TacEleven**：足球开放性战术的生成式发现 | arXiv:2511.13326 | [→](https://github.com/CASIA-Collect-AI/LLM-Football-TacEleven) |
-| **V-GEPF**：基于视觉的通用势函数在 MARL 策略对齐中的应用 | **AAAI 2025** | [→](https://github.com/CASIA-Collect-AI/MARL-Football-VGEPF) |
-| **CoMoE**：参数高效微调中混合专家的对比表示学习 | **EMNLP 2025** | — |
-| 面向认知的多智能体强化学习 | **IEEE TNNLS** | — |
-| 策略共振方法解决 MARL 中的责任扩散问题 | **IEEE TNNLS** | — |
-| 基于可扩展协作图的自聚类层级 MARL | **IEEE TETCI** | — |
-| 物理异构多智能体 RL 的混合 Actor-Critic | **IEEE TCDS** | — |
-| 基于任务特定动作校正的高效多任务强化学习 | **IEEE TCDS** | — |
+| **[TacEleven](https://arxiv.org/abs/2511.13326)**：足球开放性战术的生成式发现 | arXiv:2511.13326 | [→](https://github.com/CASIA-Collect-AI/LLM-Football-TacEleven) |
+| **[V-GEPF](https://arxiv.org/abs/2502.13430)**：基于视觉的通用势函数在 MARL 策略对齐中的应用 | **AAAI 2025** | [→](https://github.com/CASIA-Collect-AI/MARL-Football-VGEPF) |
+| **[CoMoE](https://arxiv.org/abs/2505.17553)**：参数高效微调中混合专家的对比表示学习 | **EMNLP 2025** | — |
+| [面向认知的多智能体强化学习](https://ieeexplore.ieee.org/document/10777850/) | **IEEE TNNLS** | — |
+| [策略共振方法解决 MARL 中的责任扩散问题](https://arxiv.org/abs/2208.07753) | **IEEE TNNLS** | — |
+| [基于可扩展协作图的自聚类层级 MARL](https://ieeexplore.ieee.org/document/10665939/) | **IEEE TETCI** | — |
+| [物理异构多智能体 RL 的混合 Actor-Critic](https://ieeexplore.ieee.org/document/11006503/) | **IEEE TCDS** | — |
+| [基于任务特定动作校正的高效多任务强化学习](https://ieeexplore.ieee.org/document/10892354/) | **IEEE TCDS** | — |
 
 ### 2024
 
 | 论文 | 发表期刊/会议 | 仓库 |
 |------|-------------|------|
-| **CORY**：与另一个你共同进化——序列协作 MARL 微调 LLM | **NeurIPS 2024** | [→](https://github.com/CASIA-Collect-AI/LLM-MARL-CORY) |
-| **MAPD**：面向多智能体强化学习的策略距离度量 | **AAMAS 2024 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Diversity-MADPS) |
-| 基于体育分析与 AI 的足球决策综述 | **IEEE/CAA JAS** | — |
-| 面向对抗多团队博弈的模糊反馈 MARL | **IEEE TFS** | — |
-| QFuture：多智能体 RL 中的未来期望认知学习 | **IEEE TCDS** | — |
-| 足球多人策略学习中的长短期意图推断 | **IEEE TCDS** | — |
-| 基于多经验辅助的高效多智能体强化学习 | **IEEE TNNLS** | — |
+| **[CORY](https://arxiv.org/abs/2410.06101)**：与另一个你共同进化——序列协作 MARL 微调 LLM | **NeurIPS 2024** | [→](https://github.com/CASIA-Collect-AI/LLM-MARL-CORY) |
+| **[MAPD](https://arxiv.org/abs/2401.11257)**：面向多智能体强化学习的策略距离度量 | **AAMAS 2024 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Diversity-MADPS) |
+| [基于体育分析与 AI 的足球决策综述](https://ieeexplore.ieee.org/document/10399370/) | **IEEE/CAA JAS** | — |
+| [面向对抗多团队博弈的模糊反馈 MARL](https://ieeexplore.ieee.org/document/10424698/) | **IEEE TFS** | — |
+| [QFuture：多智能体 RL 中的未来期望认知学习](https://ieeexplore.ieee.org/document/10372209/) | **IEEE TCDS** | — |
+| [足球多人策略学习中的长短期意图推断](https://ieeexplore.ieee.org/document/10536732/) | **IEEE TCDS** | — |
+| [基于多经验辅助的高效多智能体强化学习](https://ieeexplore.ieee.org/document/10098712/) | **IEEE TNNLS** | — |
 
 ### 2023
 
 | 论文 | 发表期刊/会议 | 仓库 |
 |------|-------------|------|
-| **Lazy Agents**：解决 MARL 稀疏奖励问题的新视角 | **ICML 2023** | [→](https://github.com/CASIA-Collect-AI/MARL-Reward-LazyAgents) |
-| 注意力增强的多智能体合作强化学习 | **IEEE TNNLS** | — |
-| 基于深度 RL 的多智能体避障编队控制 | **IEEE TSMC:S** | — |
-| 基于深度 RL 的保连通多目标覆盖 | **IEEE TII** | — |
-| 大规模协作 MARL 自动课程学习 | **IEEE TETCI** | — |
-| 面向合作促进的多智能体认知驱动策略学习 | **IEEE TG** | — |
-| 基于体育领域知识的足球强化学习 | **IEEE TG** | — |
+| **[Lazy Agents](https://proceedings.mlr.press/v202/liu23ac.html)**：解决 MARL 稀疏奖励问题的新视角 | **ICML 2023** | [→](https://github.com/CASIA-Collect-AI/MARL-Reward-LazyAgents) |
+| [注意力增强的多智能体合作强化学习](https://ieeexplore.ieee.org/document/9716772/) | **IEEE TNNLS** | — |
+| [基于深度 RL 的多智能体避障编队控制](https://ieeexplore.ieee.org/document/10047984/) | **IEEE TSMC:S** | — |
+| [基于深度 RL 的保连通多目标覆盖](https://ieeexplore.ieee.org/document/9738445/) | **IEEE TII** | — |
+| [大规模协作 MARL 自动课程学习](https://ieeexplore.ieee.org/document/9919423/) | **IEEE TETCI** | — |
+| [面向合作促进的多智能体认知驱动策略学习](https://ieeexplore.ieee.org/document/9807394/) | **IEEE TG** | — |
+| [基于体育领域知识的足球强化学习](https://ieeexplore.ieee.org/document/9893354/) | **IEEE TG** | — |
 
 ### 2022
 
 | 论文 | 发表期刊/会议 |
 |------|-------------|
-| **ConcNet**：大规模多智能体系统强化学习的聚焦网络 | **AAAI 2022** |
-| 基于深度 RL 的多目标包围与避碰 | **ICRA 2022** |
-| 多智能体相对分布式编队与障碍规避 RL | **ICRA 2022** |
-| 不确定非严格反馈系统的固定时间自适应模糊控制 *（Web of Science 高被引）* | **IEEE TFS** |
+| **[ConcNet](https://ojs.aaai.org/index.php/AAAI/article/view/21165)**：大规模多智能体系统强化学习的聚焦网络 | **AAAI 2022** |
+| [基于深度 RL 的多目标包围与避碰](https://ieeexplore.ieee.org/document/9812151/) | **ICRA 2022** |
+| [多智能体相对分布式编队与障碍规避 RL](https://ieeexplore.ieee.org/document/9812263/) | **ICRA 2022** |
+| [不确定非严格反馈系统的固定时间自适应模糊控制](https://ieeexplore.ieee.org/document/9328286/) *（Web of Science 高被引）* | **IEEE TFS** |
 
 ---
 

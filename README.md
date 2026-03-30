@@ -38,11 +38,11 @@ Our research operates at the intersection of:
 
 | Direction | Description | Representative Work |
 |-----------|-------------|---------------------|
-| **MARL Foundations** | Heterogeneity, parameter sharing, policy distance | [MADPS](https://github.com/CASIA-Collect-AI/MARL-Diversity-MADPS) (AAMAS'24 Oral), [HetDPS](https://github.com/CASIA-Collect-AI/MARL-Diversity-HetDPS) (AAMAS'26 Oral) |
-| **Sparse Reward MARL** | Lazy agents, responsibility diffusion, curriculum learning | [LazyAgents](https://github.com/CASIA-Collect-AI/MARL-Reward-LazyAgents) (ICML'23) |
-| **LLM × MARL** | Fine-tuning LLMs with cooperative MARL, MoE PEFT | [CORY](https://github.com/CASIA-Collect-AI/LLM-MARL-CORY) (NeurIPS'24) |
-| **MARL Platforms** | General simulation environments for MARL research | [Unreal-MAP](https://github.com/CASIA-Collect-AI/MARL-Environment-UnrealMAP) (AAAI'26 Oral) |
-| **Football AI** | VLM-based reward shaping, generative tactic discovery | [V-GEPF](https://github.com/CASIA-Collect-AI/MARL-Football-VGEPF) (AAAI'25), [TacEleven](https://github.com/CASIA-Collect-AI/LLM-Football-TacEleven) |
+| **MARL Foundations** | Heterogeneity, parameter sharing, policy distance | [MADPS](https://github.com/CASIA-Collect-AI/MARL-Diversity-MADPS) ([paper](https://arxiv.org/abs/2401.11257)) (AAMAS'24 Oral), [HetDPS](https://github.com/CASIA-Collect-AI/MARL-Diversity-HetDPS) ([paper](https://arxiv.org/abs/2512.22941)) (AAMAS'26 Oral) |
+| **Sparse Reward MARL** | Lazy agents, responsibility diffusion, curriculum learning | [LazyAgents](https://github.com/CASIA-Collect-AI/MARL-Reward-LazyAgents) ([paper](https://proceedings.mlr.press/v202/liu23ac.html)) (ICML'23) |
+| **LLM × MARL** | Fine-tuning LLMs with cooperative MARL, MoE PEFT | [CORY](https://github.com/CASIA-Collect-AI/LLM-MARL-CORY) ([paper](https://arxiv.org/abs/2410.06101)) (NeurIPS'24) |
+| **MARL Platforms** | General simulation environments for MARL research | [Unreal-MAP](https://github.com/CASIA-Collect-AI/MARL-Environment-UnrealMAP) ([paper](https://arxiv.org/abs/2503.15947)) (AAAI'26 Oral) |
+| **Football AI** | VLM-based reward shaping, generative tactic discovery | [V-GEPF](https://github.com/CASIA-Collect-AI/MARL-Football-VGEPF) ([paper](https://arxiv.org/abs/2502.13430)) (AAAI'25), [TacEleven](https://github.com/CASIA-Collect-AI/LLM-Football-TacEleven) ([paper](https://arxiv.org/abs/2511.13326)) |
 | **Hierarchical Agents** | Nested LM agents for complex long-horizon tasks | [agent-matrix](https://github.com/CASIA-Collect-AI/agent-matrix) |
 
 ---
@@ -53,54 +53,54 @@ Our research operates at the intersection of:
 
 | Paper | Venue | Repo |
 |-------|-------|------|
-| **Unreal-MAP**: Unreal-Engine-Based General Platform for Multi-Agent RL | **AAAI 2026 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Environment-UnrealMAP) |
-| **HetDPS**: Heterogeneity in Multi-Agent Reinforcement Learning | **AAMAS 2026 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Diversity-HetDPS) |
+| **[Unreal-MAP](https://arxiv.org/abs/2503.15947)**: Unreal-Engine-Based General Platform for Multi-Agent RL | **AAAI 2026 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Environment-UnrealMAP) |
+| **[HetDPS](https://arxiv.org/abs/2512.22941)**: Heterogeneity in Multi-Agent Reinforcement Learning | **AAMAS 2026 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Diversity-HetDPS) |
 
 ### 2025
 
 | Paper | Venue | Repo |
 |-------|-------|------|
-| **TacEleven**: Generative Tactic Discovery for Football Open Play | arXiv:2511.13326 | [→](https://github.com/CASIA-Collect-AI/LLM-Football-TacEleven) |
-| **V-GEPF**: Vision-Based Generic Potential Function for Policy Alignment in MARL | **AAAI 2025** | [→](https://github.com/CASIA-Collect-AI/MARL-Football-VGEPF) |
-| **CoMoE**: Contrastive Representation for MoE in Parameter-Efficient Fine-tuning | **EMNLP 2025** | — |
-| Cognition-Oriented Multiagent Reinforcement Learning | **IEEE TNNLS** | — |
-| A Policy Resonance Approach to Solve Responsibility Diffusion in MARL | **IEEE TNNLS** | — |
-| Self-Clustering Hierarchical MARL With Extensible Cooperation Graph | **IEEE TETCI** | — |
-| Hybrid Actor-Critic for Physically Heterogeneous MARL | **IEEE TCDS** | — |
-| Efficient Multitask RL via Task-Specific Action Correction | **IEEE TCDS** | — |
+| **[TacEleven](https://arxiv.org/abs/2511.13326)**: Generative Tactic Discovery for Football Open Play | arXiv:2511.13326 | [→](https://github.com/CASIA-Collect-AI/LLM-Football-TacEleven) |
+| **[V-GEPF](https://arxiv.org/abs/2502.13430)**: Vision-Based Generic Potential Function for Policy Alignment in MARL | **AAAI 2025** | [→](https://github.com/CASIA-Collect-AI/MARL-Football-VGEPF) |
+| **[CoMoE](https://arxiv.org/abs/2505.17553)**: Contrastive Representation for MoE in Parameter-Efficient Fine-tuning | **EMNLP 2025** | — |
+| [Cognition-Oriented Multiagent Reinforcement Learning](https://ieeexplore.ieee.org/document/10777850/) | **IEEE TNNLS** | — |
+| [A Policy Resonance Approach to Solve Responsibility Diffusion in MARL](https://arxiv.org/abs/2208.07753) | **IEEE TNNLS** | — |
+| [Self-Clustering Hierarchical MARL With Extensible Cooperation Graph](https://ieeexplore.ieee.org/document/10665939/) | **IEEE TETCI** | — |
+| [Hybrid Actor-Critic for Physically Heterogeneous MARL](https://ieeexplore.ieee.org/document/11006503/) | **IEEE TCDS** | — |
+| [Efficient Multitask RL via Task-Specific Action Correction](https://ieeexplore.ieee.org/document/10892354/) | **IEEE TCDS** | — |
 
 ### 2024
 
 | Paper | Venue | Repo |
 |-------|-------|------|
-| **CORY**: Coevolving with the Other You — Fine-Tuning LLM with Sequential Cooperative MARL | **NeurIPS 2024** | [→](https://github.com/CASIA-Collect-AI/LLM-MARL-CORY) |
-| **MAPD**: Measuring Policy Distance for Multi-Agent Reinforcement Learning | **AAMAS 2024 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Diversity-MADPS) |
-| Orientation and Decision-Making for Soccer Based on Sports Analytics and AI | **IEEE/CAA JAS** | — |
-| Fuzzy Feedback MARL for Adversarial Dynamic Multiteam Competitions | **IEEE TFS** | — |
-| QFuture: Learning Future Expectation Cognition in MARL | **IEEE TCDS** | — |
-| Long-Term and Short-Term Opponent Intention Inference for Football MARL | **IEEE TCDS** | — |
-| Multiexperience-Assisted Efficient Multiagent Reinforcement Learning | **IEEE TNNLS** | — |
+| **[CORY](https://arxiv.org/abs/2410.06101)**: Coevolving with the Other You — Fine-Tuning LLM with Sequential Cooperative MARL | **NeurIPS 2024** | [→](https://github.com/CASIA-Collect-AI/LLM-MARL-CORY) |
+| **[MAPD](https://arxiv.org/abs/2401.11257)**: Measuring Policy Distance for Multi-Agent Reinforcement Learning | **AAMAS 2024 (Oral)** | [→](https://github.com/CASIA-Collect-AI/MARL-Diversity-MADPS) |
+| [Orientation and Decision-Making for Soccer Based on Sports Analytics and AI](https://ieeexplore.ieee.org/document/10399370/) | **IEEE/CAA JAS** | — |
+| [Fuzzy Feedback MARL for Adversarial Dynamic Multiteam Competitions](https://ieeexplore.ieee.org/document/10424698/) | **IEEE TFS** | — |
+| [QFuture: Learning Future Expectation Cognition in MARL](https://ieeexplore.ieee.org/document/10372209/) | **IEEE TCDS** | — |
+| [Long-Term and Short-Term Opponent Intention Inference for Football MARL](https://ieeexplore.ieee.org/document/10536732/) | **IEEE TCDS** | — |
+| [Multiexperience-Assisted Efficient Multiagent Reinforcement Learning](https://ieeexplore.ieee.org/document/10098712/) | **IEEE TNNLS** | — |
 
 ### 2023
 
 | Paper | Venue | Repo |
 |-------|-------|------|
-| **Lazy Agents**: A New Perspective on Solving Sparse Reward in MARL | **ICML 2023** | [→](https://github.com/CASIA-Collect-AI/MARL-Reward-LazyAgents) |
-| Attention Enhanced Reinforcement Learning for Multi-Agent Cooperation | **IEEE TNNLS** | — |
-| Deep RL for Multiagent Formation Control With Collision Avoidance | **IEEE TSMC:S** | — |
-| Deep-RL-Based Multitarget Coverage With Connectivity Guaranteed | **IEEE TII** | — |
-| Automatic Curriculum Learning for Large-Scale Cooperative MARL | **IEEE TETCI** | — |
-| Cognition-Driven Multiagent Policy Learning for Promoting Cooperation | **IEEE TG** | — |
-| Learning to Play Football From Sports Domain Perspective | **IEEE TG** | — |
+| **[Lazy Agents](https://proceedings.mlr.press/v202/liu23ac.html)**: A New Perspective on Solving Sparse Reward in MARL | **ICML 2023** | [→](https://github.com/CASIA-Collect-AI/MARL-Reward-LazyAgents) |
+| [Attention Enhanced Reinforcement Learning for Multi-Agent Cooperation](https://ieeexplore.ieee.org/document/9716772/) | **IEEE TNNLS** | — |
+| [Deep RL for Multiagent Formation Control With Collision Avoidance](https://ieeexplore.ieee.org/document/10047984/) | **IEEE TSMC:S** | — |
+| [Deep-RL-Based Multitarget Coverage With Connectivity Guaranteed](https://ieeexplore.ieee.org/document/9738445/) | **IEEE TII** | — |
+| [Automatic Curriculum Learning for Large-Scale Cooperative MARL](https://ieeexplore.ieee.org/document/9919423/) | **IEEE TETCI** | — |
+| [Cognition-Driven Multiagent Policy Learning for Promoting Cooperation](https://ieeexplore.ieee.org/document/9807394/) | **IEEE TG** | — |
+| [Learning to Play Football From Sports Domain Perspective](https://ieeexplore.ieee.org/document/9893354/) | **IEEE TG** | — |
 
 ### 2022
 
 | Paper | Venue |
 |-------|-------|
-| **ConcNet**: Concentration Network for RL of Large-Scale Multi-Agent Systems | **AAAI 2022** |
-| Multi-Target Encirclement with Collision Avoidance via Deep RL | **ICRA 2022** |
-| Relative Distributed Formation and Obstacle Avoidance with Multi-Agent RL | **ICRA 2022** |
-| Fixed-Time Adaptive Fuzzy Control for Uncertain Nonstrict-Feedback Systems *(Highly Cited, WoS)* | **IEEE TFS** |
+| **[ConcNet](https://ojs.aaai.org/index.php/AAAI/article/view/21165)**: Concentration Network for RL of Large-Scale Multi-Agent Systems | **AAAI 2022** |
+| [Multi-Target Encirclement with Collision Avoidance via Deep RL](https://ieeexplore.ieee.org/document/9812151/) | **ICRA 2022** |
+| [Relative Distributed Formation and Obstacle Avoidance with Multi-Agent RL](https://ieeexplore.ieee.org/document/9812263/) | **ICRA 2022** |
+| [Fixed-Time Adaptive Fuzzy Control for Uncertain Nonstrict-Feedback Systems](https://ieeexplore.ieee.org/document/9328286/) *(Highly Cited, WoS)* | **IEEE TFS** |
 
 ---
 
