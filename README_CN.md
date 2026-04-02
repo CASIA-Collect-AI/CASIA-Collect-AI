@@ -2,7 +2,7 @@
 
 # CASIA-Collect-AI
 
-**飞行器智能技术团队**
+**无人集群智能团队**
 中国科学院自动化研究所
 
 *收录和维护多智能体强化学习、大语言模型与机器人领域高质量开源研究代码*
@@ -11,7 +11,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-CASIA--Collect--AI-181717?logo=github)](https://github.com/CASIA-Collect-AI)
 [![Lab](https://img.shields.io/badge/CASIA-ia.cas.cn-blue)](https://www.ia.cas.cn)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-蒲志强-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=G4YHckgAAAAJ)
 [![Contact](https://img.shields.io/badge/联系-zhiqiang.pu%40ia.ac.cn-red)](mailto:zhiqiang.pu@ia.ac.cn)
 
 </div>
@@ -20,7 +19,7 @@
 
 ## 👨‍🏫 团队介绍
 
-我们是**飞行器智能技术团队**，由中国科学院自动化研究所**蒲志强研究员**领衔。
+我们是**无人集群智能团队**，由中国科学院自动化研究所**蒲志强研究员**领衔。
 
 **CASIA-Collect-AI** 是本团队的开源代码收录平台，面向 MARL、LLM 及机器人领域，系统整理和维护团队及合作者的高质量研究代码。
 
@@ -47,7 +46,7 @@
 
 ---
 
-## 📚 代表性论文（近五年）
+## 📚 部分代表性论文
 
 ### 2026
 
@@ -119,38 +118,14 @@
 
 ---
 
-## 🏆 所获奖励
-
-**竞赛获奖**
-- 🥇 **特等奖** — 2023 年全国群体智能技术挑战赛（指导教师）
-- 🥇 **第一名（异构赛道）** — 第二届全国多智能体对抗博弈挑战赛，2020
-- 🥈 **第二名（同构赛道）** — 第二届全国多智能体对抗博弈挑战赛，2020
-
-**学术奖励**
-- 🏅 **中国人工智能学会自然科学二等奖** — "自学习优化理论与方法"，2024
-- 📄 **F-5000 卓越论文** — "知识和数据协同驱动的群体智能决策方法研究综述"（中国科技期刊卓越行动计划）
-- 📄 **Web of Science 高被引论文** — "Fixed-Time Adaptive Fuzzy Control..."（IEEE TFS，2022）
-- 🏆 **最佳论文奖** — 第五届 CCSICC 国际会议
-
-**人才计划**
-- 🌟 **国家自然科学基金优秀青年科学基金**获得者
-- 🌟 **北京市科技新星·创新新星**（2022 年，编号 2022129）
-- 🌟 **中科院特聘研究骨干**
-- 🌟 **中国科学院青年创新促进会**会员
-- 🏅 **中国指挥与控制学会青年才俊奖**
-
----
-
 ## 📬 联系方式
 
 - **蒲志强研究员：** zhiqiang.pu@ia.ac.cn
 - **实验室：** 认知与决策智能全国重点实验室，中国科学院自动化研究所，北京
 - **中科院大学主页：** [people.ucas.edu.cn/~pzq](https://people.ucas.edu.cn/~pzq)
-- **Google Scholar：** [蒲志强](https://scholar.google.com/citations?user=G4YHckgAAAAJ)
-- **ORCID：** [0000-0002-4841-4048](https://orcid.org/0000-0002-4841-4048)
 
 ---
 
 <div align="center">
-<sub>CASIA-Collect-AI 收录和维护中科院自动化所飞行器智能技术团队的开源研究代码，所有仓库均提供中英双语文档。</sub>
+<sub>CASIA-Collect-AI 收录和维护中科院自动化所无人集群智能团队的开源研究代码，所有仓库均提供中英双语文档。</sub>
 </div>

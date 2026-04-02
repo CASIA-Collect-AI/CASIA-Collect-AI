@@ -2,7 +2,7 @@
 
 # CASIA-Collect-AI
 
-**Intelligent Flight Technology Team**
+**Unmanned Collective Intelligence Team**
 Institute of Automation, Chinese Academy of Sciences (CASIA)
 
 *Curating high-quality open-source research code in Multi-Agent RL, LLM, and Robotics*
@@ -11,7 +11,6 @@ Institute of Automation, Chinese Academy of Sciences (CASIA)
 
 [![GitHub](https://img.shields.io/badge/GitHub-CASIA--Collect--AI-181717?logo=github)](https://github.com/CASIA-Collect-AI)
 [![Lab](https://img.shields.io/badge/CASIA-ia.cas.cn-blue)](https://www.ia.cas.cn)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Zhiqiang%20Pu-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=G4YHckgAAAAJ)
 [![Contact](https://img.shields.io/badge/Contact-zhiqiang.pu%40ia.ac.cn-red)](mailto:zhiqiang.pu@ia.ac.cn)
 
 </div>
@@ -20,7 +19,7 @@ Institute of Automation, Chinese Academy of Sciences (CASIA)
 
 ## 👨‍🏫 About the Team
 
-We are the **Intelligent Flight Technology Team (飞行器智能技术团队)**, led by **Prof. Zhiqiang Pu (蒲志强)** at the Institute of Automation, Chinese Academy of Sciences (CASIA).
+We are the **Unmanned Collective Intelligence Team (无人集群智能团队)**, led by **Prof. Zhiqiang Pu (蒲志强)** at the Institute of Automation, Chinese Academy of Sciences (CASIA).
 
 **CASIA-Collect-AI** is our open-source code collection platform, curating and maintaining high-quality research code from our team and affiliated researchers in MARL, LLM, and robotics.
 
@@ -47,7 +46,7 @@ Our research operates at the intersection of:
 
 ---
 
-## 📚 Selected Publications (Recent 5 Years)
+## 📚 Some of the Representative Publications
 
 ### 2026
 
@@ -119,38 +118,14 @@ Our research operates at the intersection of:
 
 ---
 
-## 🏆 Awards & Recognition
-
-**Competition Awards**
-- 🥇 **Special Prize** — 1st National Collect-AI Technology Challenge (全国群体智能技术挑战赛特等奖), 2023
-- 🥇 **1st Place (Heterogeneous Track)** — 2nd National Multi-Agent Adversarial Gaming Challenge (全国多智能体对抗博弈挑战赛异构赛道第一名), 2020
-- 🥈 **2nd Place (Homogeneous Track)** — 2nd National Multi-Agent Adversarial Gaming Challenge, 2020
-
-**Academic Awards**
-- 🏅 **CAAI Natural Science Award, 2nd Prize** — "Self-Learning Optimization Theory and Methods" (中国人工智能学会自然科学二等奖), 2024
-- 📄 **F-5000 Top Academic Paper** — "Knowledge-Data Collaborative Intelligence Decision-Making" (中国科技期刊卓越行动计划高被引论文)
-- 📄 **Web of Science Highly Cited Paper** — "Fixed-Time Adaptive Fuzzy Control..." (IEEE TFS, 2022)
-- 🏆 **Best Paper Award** — 5th CCSICC International Conference
-
-**Talent Programs**
-- 🌟 **NSFC Excellent Young Scientists Fund** (国家自然科学基金优秀青年科学基金)
-- 🌟 **Beijing Nova Program — Innovation Star** (北京市科技新星·创新新星, 2022)
-- 🌟 **CAS Distinguished Research Fellow** (中科院特聘研究骨干)
-- 🌟 **CAS Youth Innovation Promotion Association Member** (中科院青促会会员)
-- 🏅 **CICC Youth Outstanding Talent Award** (中国指挥与控制学会青年才俊奖)
-
----
-
 ## 📬 Contact
 
 - **Prof. Zhiqiang Pu:** zhiqiang.pu@ia.ac.cn
 - **Lab:** National Key Laboratory of Cognition and Decision Intelligence for Complex Systems, CASIA, Beijing
 - **UCAS Profile:** [people.ucas.edu.cn/~pzq](https://people.ucas.edu.cn/~pzq)
-- **Google Scholar:** [Zhiqiang Pu](https://scholar.google.com/citations?user=G4YHckgAAAAJ)
-- **ORCID:** [0000-0002-4841-4048](https://orcid.org/0000-0002-4841-4048)
 
 ---
 
 <div align="center">
-<sub>CASIA-Collect-AI curates and maintains open-source research code from the Intelligent Flight Technology Team at CASIA. All repos include bilingual (English/Chinese) documentation.</sub>
+<sub>CASIA-Collect-AI curates and maintains open-source research code from the Unmanned Collective Intelligence Team at CASIA. All repos include bilingual (English/Chinese) documentation.</sub>
 </div>
