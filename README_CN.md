@@ -118,6 +118,16 @@
 
 ---
 
+## 📢 招聘 | Recruitment
+
+**🔥 中科序智能 (ZKDX Intelligence) 热招中！**
+
+具身智能 · 多模态大模型 · 机器人
+
+👉 查看详情：[recruitment.md](./recruitment.md)
+
+---
+
 ## 📬 联系方式
 
 - **蒲志强研究员：** zhiqiang.pu@ia.ac.cn
