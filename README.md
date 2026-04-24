@@ -118,6 +118,16 @@ Our research operates at the intersection of:
 
 ---
 
+## 📢 Recruitment | 招聘
+
+**🔥 ZKDX Intelligence (中科序智能) is hiring!**
+
+Embodied AI · Multimodal LLMs · Robotics
+
+👉 View details: [recruitment.md](./recruitment.md)
+
+---
+
 ## 📬 Contact
 
 - **Prof. Zhiqiang Pu:** zhiqiang.pu@ia.ac.cn
