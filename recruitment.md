@@ -48,8 +48,8 @@
 ## 📬 Contact | 联系方式
 
 - **HR 联系**: 请扫描上方二维码或关注官方渠道
-- **手机**: 187****8977
-- **Email**: zhongkedunxu@163.com
+- **手机**: 185 2220 6895
+- **Email**: hr_chaosorder@163.com
 - **官网**: www.zkdxtm.com
 
 ---
